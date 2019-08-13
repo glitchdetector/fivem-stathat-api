@@ -1,0 +1,6 @@
+autoupdater/sv_autoupdate.lua
+client/cl_stathat.lua
+server/sv_stathat.lua
+shared/sh_logging.lua
+__resource.lua
+version
