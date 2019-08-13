@@ -8,7 +8,7 @@ A lightweight simple version for inclusion in resources is also available in the
 **If you are here because another resource requires you to download this, please follow the installation instructions below**
 
 ## Forum Thread
-[TODO: link forum thread]
+https://forum.fivem.net/t/release-stathat-api-easy-server-statistics-api/715477
 
 ## Installation and Setup
  1. Register an account on https://www.stathat.com/
