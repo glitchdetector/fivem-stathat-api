@@ -24,7 +24,7 @@ if Config.CHECK_UPDATES then
                 log(""..resourceName.." is up to date, have fun!")
             end
         end
-        PerformHttpRequest("https://raw.githubusercontent.com"..updatePath.."/master/chat_commands/version", checkVersion, "GET")
+        PerformHttpRequest("https://raw.githubusercontent.com"..updatePath.."/master/stathat/version", checkVersion, "GET")
     end)
 end
 
